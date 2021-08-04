@@ -298,8 +298,8 @@ ul li {
 
 .preloader {
     position: absolute;
-    top: 40%;
-    left: 40%;
+    top: 30%;
+    left: 30%;
     width: 65px;
     height: 65px;
     margin-top: -30px;
