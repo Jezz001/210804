@@ -298,12 +298,12 @@ ul li {
 
 .preloader {
     position: absolute;
-    top: 50%;
-    left: 50%;
+    top: 40%;
+    left: 40%;
     width: 65px;
     height: 65px;
-    margin-top: -32px;
-    margin-left: -32px;
+    margin-top: -30px;
+    margin-left: -30px;
     -webkit-backface-visibility: hidden;
     transition: all 0.17s ease-in-out;
     -moz-transition: all 0.17s ease-in-out;
